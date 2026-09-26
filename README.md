@@ -13,6 +13,7 @@ Lernen für die theoretische Fahrerlaubnisprüfung Klasse B — für iPhone und 
 - [Privacy policy / Datenschutzerklärung](PRIVACY.md)
 - [Terms of Use / Nutzungsbedingungen](TERMS.md)
 - [Delete your account and data / Konto und Daten löschen](ACCOUNT_DELETION.md)
+- [Impressum](IMPRESSUM.md)
 
 ## Frequently asked questions / Häufige Fragen
 
